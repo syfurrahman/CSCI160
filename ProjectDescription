@@ -1,0 +1,10 @@
+PROJECT- Octal Full-Adder
+
+Input: A, B = octal digits (see representation below); Cin-binary digit Output: S = octal digit (see representation below); 
+Cout-binary digit
+
+Task: U
+sing only_binary_FAs to perform the actual addition, design a circuit that performs as an octal FA. 
+More specifically, this circuit would input the two octal digits A, B, convert them into binary numbers, 
+add them using three binary FAs, convert the binary result back to octal, 
+and output the sum as an octal digit, and the binary carry out.
